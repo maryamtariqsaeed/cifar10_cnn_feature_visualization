@@ -1,5 +1,4 @@
 # cifar10_cnn_feature_visualization
-# CIFAR-10 CNN Image Classifier
 
 This project builds and trains a Convolutional Neural Network (CNN) using TensorFlow/Keras to classify images from the CIFAR-10 dataset.
 
